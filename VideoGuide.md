@@ -8,3 +8,5 @@
 [Video 2](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=54418c81-3dbe-4ec0-895e-5fb775bdf211)
 
 [Bonus: Github with existing repo](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6fd4adfd-d122-4537-960c-9eece6c9f2c0)
+### Day 3 - Heroes of CSS
+[Video 1](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f73d7162-e57f-42a5-8c92-cd01f9d70d46)

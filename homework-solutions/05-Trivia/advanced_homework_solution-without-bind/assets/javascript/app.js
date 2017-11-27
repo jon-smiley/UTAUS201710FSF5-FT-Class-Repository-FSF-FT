@@ -58,7 +58,7 @@ var game = {
 
   countdown: function() {
     game.counter--;
-    $("#counter-number").html(game.counter);
+    $("#counter-number").text(game.counter);
     if (game.counter === 0) {
       console.log("TIME UP");
       game.timeUp();
@@ -79,7 +79,7 @@ var game = {
 
   nextQuestion: function() {
     game.counter = countStartNumber;
-    $("#counter-number").html(game.counter);
+    $("#counter-number").text(game.counter);
     game.currentQuestion++;
     game.loadQuestion();
   },
@@ -108,7 +108,7 @@ var game = {
 
     panel.html("<h2>All done, heres how you did!</h2>");
 
-    $("#counter-number").html(game.counter);
+    $("#counter-number").text(game.counter);
 
     panel.append("<h3>Correct Answers: " + game.correct + "</h3>");
     panel.append("<h3>Incorrect Answers: " + game.incorrect + "</h3>");
